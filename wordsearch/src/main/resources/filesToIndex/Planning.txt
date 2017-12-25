@@ -1,0 +1,14 @@
+
+
+Create project structure
+Controller:
+ role: 
+  collect property value 
+  prepare for validation 
+  get response from API - {Valid response,No results}
+  handle Api errors. - https://github.com/magiccrafter/spring-boot-exception-handling/blob/master/src/main/java/com/example/rest/error/GlobalControllerExceptionHandler.java
+  
+ Add health checks: https://spring.io/guides/gs/spring-boot/
+ Add security https://spring.io/guides/gs/spring-boot/
+ 
+ https://www.javabrahman.com/quick-tips/java-8-how-to-count-words-in-a-text-file-in-java-using-nio-and-streams-api/
